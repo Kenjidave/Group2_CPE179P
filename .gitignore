@@ -1,0 +1,15 @@
+# Secrets
+.env
+
+# Python
+__pycache__/
+*.pyc
+edge-ai-env/
+.venv/
+
+# Generated / downloaded files
+temp_*
+sample_receipt.jpg
+preprocessed_output.jpg
+*.pth
+*.onnx
